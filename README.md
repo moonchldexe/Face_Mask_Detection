@@ -18,3 +18,5 @@ Usage
 Clone the repository: git clone https://github.com/your-username/face-mask-detection.git
 Install dependencies: pip install -r requirements.txt
 Run the examples or integrate the model into your projects.
+
+dataset : https://drive.google.com/drive/folders/10rF740LDJr-cTVbaoPwYjd0X96asxRD4?usp=drive_link
